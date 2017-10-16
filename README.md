@@ -3,11 +3,13 @@ Hello, welcome to pointlist_animator, this is a tool to help take lists of numbe
 Quickstart:
 
 pip install pillow
+
 pip install numpy
 
 git clone https://github.com/Aeium/pointlist_animator
 
 mkdir output1
+
 mkdir output2
 
 python useage_example.py

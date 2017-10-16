@@ -2,7 +2,7 @@ Hello, welcome to pointlist_animator, this is a tool to help take lists of numbe
 
 Example:
 
-![animation](https://gfycat.com/gifs/detail/OddballArtisticKestrel)
+![animation](https://thumbs.gfycat.com/OddballArtisticKestrel-size_restricted.gif)
 
 This tool will make the frames (.png files) but you will need another tool to create a compressed video
 

@@ -1,6 +1,6 @@
 Hello, welcome to pointlist_animator, this is a tool to help take lists of numbers and turn them into animations
 
-Example:
+Like this:
 
 ![animation](https://thumbs.gfycat.com/OddballArtisticKestrel-size_restricted.gif)
 
